@@ -86,6 +86,8 @@ During the final review, I noticed that the selected motor driver was too large 
 
 I forgotten to build enclosure for Tx so I build one. I used Velcro straps to attach it to y hand and i updates Bill of Materials. Finally at last I completed this project by reviewing once again.
 
+<img src=images/tx_base.png>
+
 
 
 ---
