@@ -194,3 +194,7 @@ The development process, including planning, component selection, circuit diagra
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+<img width="662" height="341" alt="Capture" src="https://github.com/user-attachments/assets/19c9b6d8-68c0-413b-a7d2-a579c10a38c5" />
+
