@@ -71,17 +71,21 @@ I am not sure about code because I didn't test it but I used Claude to fix some 
 
 ## Day 7 – README and BOM Preparation (3 Hours)
 
-On the final day, I prepared the project documentation. I wrote the README file.
+On the 7th Day, I prepared the project documentation. I wrote the README file.
 
 I also prepared the Bill of Materials (BOM), including component names, quantities and estimated prices in Indian rupees.
 
 During the final review, I noticed that the selected motor driver was too large for the available chassis space. So I changed the motor driver from Cytron MDD20A to MDD10A and updated the related board information which was also an head ache.
 
-Finally, I checked the project files and organized the important files.With lots of efforts I finally Completed this project.
 <img src=images/Screenshot_2026-11-15-08-33-32-05.jpg>
 <img src=images/Screenshot_2026-11-15-08-32-31-68.jpg>
+
+---
+
+## Day 8 - Enclosure For Transmitter (3 Hours 15 minutes)
+
+I forgotten to build enclosure for Tx so I build one. I used Velcro straps to attach it to y hand and i updates Bill of Materials. Finally at last I completed this project by reviewing once again.
 
 
 
 ---
-
