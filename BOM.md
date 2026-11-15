@@ -51,9 +51,8 @@
 | 4WD TT-motor chassis kit (use the 4 yellow motors + 4 wheels; plates unused) | 1 | ₹700 | ₹700 | ₹526–₹799 |
 | M3 screw and nut assortment (button-head 8 mm, countersunk 10 mm) | 1 | ₹350 | ₹350 | ₹250–₹500 |
 | M3 brass heat-set inserts, short (pack of 50) | 1 | ₹300 | ₹300 | ₹200–₹450 |
-| PETG filament, orange, 1 kg | 1 | ₹1,500 | ₹1,500 | ₹1,100–₹2,000 |
 
-**Subtotal: ₹2,850** (range ₹2,076–₹3,749)
+**Subtotal: ₹!900** (approximate)
 
 ### E. Wiring and consumables
 
@@ -72,18 +71,14 @@
 
 **Subtotal: ₹250** (range ₹150–₹400)
 
-### F. PCB fabrication (not on Amazon)
+### F. PCB fabrication and 3D Printing
 
 | Item | Qty | Unit (budget) | Line total | Range per unit |
 |---|---|---|---|---|
-| PCBs from JLCPCB or PCBWay: TX (1 oz) + RX (2 oz), 5 pieces each, shipped to India | 1 | ₹3,500 | ₹3,500 | ₹2,500–₹4,500 |
+| PCBs from JLCPCB: TX (1 oz) + RX (2 oz), 5 pieces each, shipped to India | 1 | ₹3,500 | ₹3,500 | ₹2,500–₹4,500 |
+| 3D Printing of Chassis and Enclosure| 2 | ₹2500 | ₹5000 | ₹5000 - ₹6000|
 
-**Subtotal: ₹3,500** (range ₹2,500–₹4,500)
+**Subtotal: ₹8500** (range ₹8,500–₹11,500)
 
-**Total from Amazon.in (sections A to E): ₹15,690**
+**Grand total: ₹25000 (approximate)**
 
-PCB fabrication (section F, not on Amazon): ₹3,500
-
-**Grand total with PCBs: ₹19,190**
-
-*All prices are in rupees (₹, including GST). They are budget figures for Amazon.in, not live quotes, so check each price at checkout.*
