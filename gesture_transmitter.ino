@@ -1,15 +1,4 @@
-/*
-  GESTURE CAR - TRANSMITTER  (ESP32 DevKit + BNO055)      rev B
-  Board: "ESP32 Dev Module".  No extra libraries needed.
 
-  Wiring: BNO055 VIN->3V3, GND->GND, SDA->GPIO21, SCL->GPIO22.
-  Power on with your hand held LEVEL and STILL: that pose becomes neutral.
-  Press the BOOT button (GPIO0) to re-zero.  Do not hold BOOT while powering on.
-
-  Wrist up/down    -> forward/reverse (speed grows with tilt)
-  Wrist left/right -> turn left/right
-  On-board LED: solid = a car is connected, off = no car.
-*/
 #include <Wire.h>
 #include <WiFi.h>
 #include <WiFiUdp.h>
