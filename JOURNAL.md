@@ -63,6 +63,9 @@ The transmitter code reads the hand movements using the BNO055 sensor and sends 
 
 I am not sure about code because I didn't test it but I used Claude to fix some bugs detected by itself.
 
+<img src=images/Screenshot_2026-11-15-09-15-05-00.jpg>
+<img src=images/Screenshot_2026-11-15-09-14-48-54.jpg>
+
 
 ---
 
