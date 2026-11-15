@@ -25,6 +25,11 @@ On the third day, I worked on the receiver PCB.I first created schematic diagram
 
 Next I checked the route using Claude because i don't know how. I was happy when there were no errors.
 
+<img src=images/Screenshot_2026-11-14-21-02-16-49.jpg>
+
+
+
+
 ---
 
 ## Day 4 – Transmitter PCB Design (2 Hour 15 Minutes)
@@ -33,6 +38,8 @@ On the fourth day, I designed the transmitter PCB. Starting with schematic diagr
 
 I again checked routes using Claude like before because I mentioned before.
 
+
+<img src=images/Screenshot_2026-11-14-21-02-52-75.jpg>
 ---
 
 ## Day 5 – Chassis Design and 3D Modelling (4 Hours 15 minutes)
@@ -42,6 +49,9 @@ On the fifth day, I started designing the car chassis. I planned an orange body 
 I selected yellow TT gear motors and designed suitable motor brackets for them too. During the design, I noticed that the motor voltage rating did not match the original battery selection. So I changed the battery arrangement to two 18650 cells in series and planned to limit the motor power which gave me head ache.
 
 I also designed the chassis lid and added screw positions with heat-set inserts. After checking the 3D model,I thought still code is remaining.
+
+<img src=images/Screenshot_2026-11-15-08-24-33-89.jpg>
+<img src=images/Screenshot_2026-11-15-08-25-00-14.jpg>
 
 ---
 
@@ -65,6 +75,10 @@ I also prepared the Bill of Materials (BOM), including component names, quantiti
 During the final review, I noticed that the selected motor driver was too large for the available chassis space. So I changed the motor driver from Cytron MDD20A to MDD10A and updated the related board information which was also an head ache.
 
 Finally, I checked the project files and organized the important files.With lots of efforts I finally Completed this project.
+<img src=images/Screenshot_2026-11-15-08-33-32-05.jpg>
+<img src=images/Screenshot_2026-11-15-08-32-31-68.jpg>
+
+
 
 ---
 
