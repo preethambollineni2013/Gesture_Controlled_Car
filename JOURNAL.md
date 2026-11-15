@@ -6,6 +6,7 @@
 
 On the first day, I got the idea of a gesture-controlled car. I wanted to control the car by moving my hand. Tilting the hand forward would move the car forward, tilting it backward would move it in reverse, and tilting it sideways would control the steering.
 Next I thought of how data to be transmitted.I thought how about wifi and choose Arduino Uno R4 as RX and ESP 32 as TX.
+<img src="images/17947120568209115176638759462093.jpg" />
 
 ---
 
@@ -14,6 +15,7 @@ Next I thought of how data to be transmitted.I thought how about wifi and choose
 On the second day, I selected the components needed for the project. These included an ESP32, BNO055 motion sensor, TP4056 charging module, boost converter, Arduino Uno R4 WiFi (Which I choose before) motor driver and four DC gear motors.
 
 After selecting the components, I prepared separate circuit diagrams for the transmitter and receiver. I also identified the main connections, power supply requirements and function of each component.
+<img src="images/file_00000000150882119981b2502f18a48b.png">
 
 ---
 
