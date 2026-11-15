@@ -1,17 +1,4 @@
-/*
-  GESTURE CAR - RECEIVER  (Arduino UNO R4 WiFi + Cytron MDD10A)      rev B
-  Board: "Arduino UNO R4 WiFi".  Uses the built-in WiFiS3 library only.
 
-  Pins (match the PCB, connector J3):
-    D5 = PWM1 (left motors)   D4 = DIR1
-    D6 = PWM2 (right motors)  D7 = DIR2
-  Left motors on driver channel 1 (M1A/M1B), right motors on channel 2 (M2A/M2B).
-  Any PWM + DIR driver works (MDD10A recommended: 84.5 x 62 mm, 5-30 V).
-
-  Note: on the R4 every Wi-Fi call is a message to the Wi-Fi chip over a serial link,
-  so the sketch polls the network at 200 Hz and checks the connection once a second
-  instead of spinning as fast as it can.
-*/
 #include <WiFiS3.h>
 
 // ---------------- settings ----------------
