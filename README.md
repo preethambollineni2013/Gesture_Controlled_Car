@@ -4,11 +4,17 @@ A car that can be controlled using hand movements. By tilting my wrist, I can co
 
 The project uses a motion sensor mounted on a hand-worn transmitter. The transmitter sends the movement data wirelessly to the car, where a microcontroller controls the motors.
 
+<img src="images/file_00000000150882119981b2502f18a48b.png">
+
+
 ---
 
 ## How It Works
 
 The project has two main parts:
+
+<img src=images/Screenshot_2026-11-14-21-02-16-49.jpg>
+<img src=images/Screenshot_2026-11-14-21-02-52-75.jpg>
 
 ### 1. Transmitter (Hand Unit)
 
@@ -194,7 +200,3 @@ The development process, including planning, component selection, circuit diagra
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-<img width="662" height="341" alt="Capture" src="https://github.com/user-attachments/assets/19c9b6d8-68c0-413b-a7d2-a579c10a38c5" />
-
