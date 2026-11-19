@@ -1,4 +1,3 @@
-// car_lid - editable OpenSCAD rebuild of the STL (mm). Z=0 is the outer lid face.
 $fn=96;
 
 module part() {
