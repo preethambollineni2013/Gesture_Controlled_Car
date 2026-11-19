@@ -1,4 +1,3 @@
-// car_body_base - editable OpenSCAD rebuild of the STL (mm). Z=0 is the floor underside.
 $fn=96;
 
 module part() {
