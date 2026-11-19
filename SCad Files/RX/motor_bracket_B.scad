@@ -1,4 +1,3 @@
-// motor_bracket_B - editable OpenSCAD rebuild of the STL (mm). Mirror of A in Y.
 $fn=96;
 
 module part() {
