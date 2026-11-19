@@ -1,15 +1,7 @@
-// ============================================================
-// tx_switch_cap.scad  -  Gesture TX enclosure, SWITCH CAP
-// Rebuilt as editable OpenSCAD from tx_switch_cap.stl
-// Units: mm. Same coordinates as the STL, centred on X=0, Y=0.
-// Dimensions were measured from cross-sections of the STL (about +/-0.05 mm).
-// ============================================================
-
 $fn = 48;
 
-// ---- Overlay the original STL as a ghost, to compare ----
-show_original = false;                // true = also draw the original STL
-original_file = "tx_switch_cap.stl";  // keep it next to this .scad file
+show_original = false;                
+original_file = "tx_switch_cap.stl";  
 
 // ---- Flange (sits against the inside of the lid) ----
 flange_w = 14;     // X
