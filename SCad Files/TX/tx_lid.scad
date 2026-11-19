@@ -1,16 +1,7 @@
-// ============================================================
-// tx_lid.scad  -  Gesture TX enclosure, LID
-// Rebuilt as editable OpenSCAD from tx_lid.stl
-// Units: mm. Same coordinates as the STL, so the two overlay exactly.
-// Dimensions were measured from cross-sections of the STL (about +/-0.1 mm).
-// ============================================================
-
 $fn = 64;
 
-// ---- Overlay the original STL as a ghost, to compare ----
-show_original = false;         // true = also draw the original STL (transparent in preview)
-original_file = "tx_lid.stl";  // keep it next to this .scad file
-
+show_original = false;         
+original_file = "tx_lid.stl"; 
 // ---- Main shell ----
 box_w   = 99.8;   // outer width  (X)
 box_d   = 75.8;   // outer depth  (Y)
