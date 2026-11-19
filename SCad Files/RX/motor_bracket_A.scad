@@ -1,4 +1,3 @@
-// motor_bracket_A - editable OpenSCAD rebuild of the STL (mm). Cavity runs full height.
 $fn=96;
 
 module part() {
