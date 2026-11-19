@@ -1,26 +1,17 @@
-// ============================================================
-// tx_base.scad  -  Gesture TX enclosure, BASE
-// Rebuilt as editable OpenSCAD from tx_base.stl
-// Units: mm. Same coordinates as the STL, so the two overlay exactly.
-// Dimensions were measured from cross-sections of the STL (about +/-0.1 mm).
-// ============================================================
-
 $fn = 64;
 
-// ---- Overlay the original STL as a ghost, to compare ----
-show_original = false;          // true = also draw the original STL (transparent in preview)
-original_file = "tx_base.stl";  // keep it next to this .scad file
-
+show_original = false;          
+original_file = "tx_base.stl"; 
 // ---- Main body ----
-box_w    = 99.8;   // outer width  (X)
-box_d    = 75.8;   // outer depth  (Y)
-box_cy   = 2;      // Y of the box centre (the box is not centred on y=0)
-wall     = 3.4;    // wall thickness, lower part
-floor_t  = 3;      // floor thickness
-body_h   = 12;     // height of the full-thickness wall; the thin lip starts here
-total_h  = 22;     // overall height
-lip_wall = 1.6;    // thin lip wall thickness (z = body_h .. total_h)
-cav_r    = 5.5;    // inner cavity corner radius
+box_w    = 99.8; 
+box_d    = 75.8; 
+box_cy   = 2;     
+wall     = 3.4;   
+floor_t  = 3;     
+body_h   = 12;    
+total_h  = 22;    
+lip_wall = 1.6;   
+cav_r    = 5.5;   
 
 // derived values: edit the numbers above instead of these
 corner_r = cav_r + wall;        // outer corner radius (8.9)
